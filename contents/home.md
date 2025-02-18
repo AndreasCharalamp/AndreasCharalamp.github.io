@@ -1,6 +1,6 @@
 
 
-[![AndreasCharalamp](https://imgur.com/gallery/github-logo-MWVYCAn)](https://github.com/AndreasCharalamp)
+[![AndreasCharalamp](https://i.imgur.com/dy2uNAS.png)](https://github.com/AndreasCharalamp)
 
 I am currently pursuing a Master's Degree in Electrical and Computer Engineering, at National Technical University of Athens, Greece.
 
