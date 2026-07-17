@@ -24,10 +24,10 @@ repository               : "AndreasCharalamp/AndreasCharalamp.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andreas Charalampopoulos"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "New York, USA"
   employer         : "Columbia University"
   uri              : # URL
   email            : "ac5951@columbia.edu" 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0000-6304-2695"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
