@@ -206,6 +206,7 @@ exclude:
   - tmp
   - vendor
   # Unused sample content from the AcademicPages template, kept out of the published site
+  - markdown_generator
   - _posts
   - _pages/archive-layout-with-content.md
   - _pages/category-archive.html
