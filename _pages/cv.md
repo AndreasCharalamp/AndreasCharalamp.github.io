@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "CV of Andreas Charalampopoulos, PhD student in Operations Research at Columbia University (IEOR)."
 permalink: /cv/
 author_profile: true
 redirect_from:
