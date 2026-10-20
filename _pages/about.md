@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Andreas Charalampopoulos. I'm a first-year PhD student in Operations Research in the [Department of Industrial Engineering and Operations Research (IEOR)](https://ieor.columbia.edu/) at Columbia University, advised by Prof. [Christian Kroer](https://www.columbia.edu/~ck2945/). My research focuses on problems at the intersection of game theory, optimization, and artificial intelligence. I completed my undergraduate degree in electrical and computer engineering at the National Technical University of Athens, where I was advised by [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/).
+Welcome! My name is Andreas Charalampopoulos. I'm a second-year PhD student in Operations Research in the [Department of Industrial Engineering and Operations Research (IEOR)](https://ieor.columbia.edu/) at Columbia University, advised by Prof. [Christian Kroer](https://www.columbia.edu/~ck2945/). My research focuses on problems at the intersection of game theory, optimization, and artificial intelligence. I completed my undergraduate degree in electrical and computer engineering at the National Technical University of Athens, where I was advised by [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/).
 
 # News
 - **September 2026:** Our paper, “[Repeated Descent: A Framework for Online Budget-Feasible Auctions](https://arxiv.org/pdf/2606.01142),” was accepted to WINE 2026.
